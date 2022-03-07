@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio da dio de um projeto no github, parte do curso de aceleração em android
+# **dio desafio github**
+Desafio da dio de um projeto no git/github, parte do curso de aceleração em android
