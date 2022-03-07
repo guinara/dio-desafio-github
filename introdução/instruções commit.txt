@@ -1,0 +1,1 @@
+No github há alguns estados, entre eles staged, modified, unmodified, o primeiro passo é usar git add (nome ou . para adicionar todos), git commit -m "a mensagem" e git push origin main para jogar do repositorio local pra nuvem
